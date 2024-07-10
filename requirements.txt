@@ -1,5 +1,5 @@
 pandas
-openpyx1
+openpyxl
 streamlit
 plotly
 nbformat
